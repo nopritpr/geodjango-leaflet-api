@@ -1,4 +1,4 @@
-# India-Centric Spatial Data Platform
+# GeoDjango REST API with a Leaflet.js Frontend
 
 A full-stack web application designed to store, manage, and visualize geospatial point and polygon data. This project features a robust backend REST API developed with Python and Django, connected to a PostGIS database, and an interactive map frontend rendered with Leaflet.js.
 
